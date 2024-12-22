@@ -1,0 +1,33 @@
+1) with Respect to tools & agent it make your GenAi application Amazing by solving complex problems  
+
+Inside We will try to integrate genAi applicaton with mulituple tools 
+
+
+Tools : tools are the interface , that agent , chain & LLM to interact with World 
+
+Ex : Langchain procvide one tools called ArXiv 
+ArXiv= whether you require any information about any reserch paper so, you can have intraction and you get information  
+wikipedia =  we can also use wikipedia for this purpose 
+
+like some of tools are already provided like that also you can create you own cuatom tools 
+
+
+conclusion = if LLm will not have information about any subject , so LLM model will do 
+it will go and intract with this kind of tools and based on input it will get the response 
+
+
+
+Agents : if we want to exceute use all the tools and exceute it so , we require also important component calles as "Agents" 
+
+
+
+
+
+
+
+
+
+
+
+from langchain_community.tools import ArxivQueryRun,WikipediaQueryRun,DuckDuckGoSearchRun 
+# DuckDuckGoSearchRun  : it is the capability to serch on internet 
