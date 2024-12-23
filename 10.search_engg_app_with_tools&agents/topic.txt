@@ -1,6 +1,7 @@
 1) with Respect to tools & agent it make your GenAi application Amazing by solving complex problems  
 
-Inside We will try to integrate genAi applicaton with mulituple tools 
+Inside We will try to integrate genAi applicaton with mulituple tools :
+liike opanai haev till dec 2023 so it haev restricted info so we intregrate mulituple tools to it 
 
 
 Tools : tools are the interface , that agent , chain & LLM to interact with World 
